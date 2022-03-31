@@ -1,0 +1,8 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No puedo ver dicho archivo debido a que me encuentro en otra rama.
+
+¿Qué diferencias nota?
+Puedo ver que se representa graficamente el commit que se acaba de realizar
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Puedo notar que se combinaron ambas ramas.
